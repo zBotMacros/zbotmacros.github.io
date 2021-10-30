@@ -1,2 +1,2 @@
 # Extreme Demon List (by Pointercreate)
-<button>AD<a href="https://github.com"></button>
+<button><a href="https://raw.githubusercontent.com/zBotMacros/zbotmacros.github.io/main/files/EXTREME_DEMON_MEGA_PACK.zip">DOWNLOAD</button>
